@@ -1,0 +1,864 @@
+sma=5
+
+impulses found: 172
+----------------------
+../impulses/echothief/Underground/FortWordenPillbox.wav
+impulse length: 912 ms
+estimated RT60: 892 ms
+intersection: not found
+----------------------
+../impulses/echothief/Underground/HarborEntranceControlPost.wav
+impulse length: 1688 ms
+estimated RT60: 1648 ms
+intersection: not found
+----------------------
+../impulses/echothief/Underground/NancyLakeTunnel.wav
+impulse length: 1758 ms
+estimated RT60: 1710 ms
+intersection: not found
+----------------------
+../impulses/echothief/Underground/DrainageTunnel.wav
+impulse length: 1984 ms
+estimated RT60: 1962 ms
+intersection: not found
+----------------------
+../impulses/echothief/Underground/Qasgiq.wav
+impulse length: 1525 ms
+estimated RT60: 1173 ms
+intersection: not found
+----------------------
+../impulses/echothief/Underground/TijuanaAqueductTunnel.wav
+impulse length: 1460 ms
+estimated RT60: 1412 ms
+intersection: not found
+----------------------
+../impulses/echothief/Underground/TunnelToHeaven.wav
+impulse length: 1486 ms
+estimated RT60: 1441 ms
+intersection: not found
+----------------------
+../impulses/echothief/Underground/BatteryPowell.wav
+impulse length: 1241 ms
+estimated RT60: 1237 ms
+intersection: not found
+----------------------
+../impulses/echothief/Underground/BatteryBrannan.wav
+impulse length: 2362 ms
+estimated RT60: 2212 ms
+intersection: not found
+----------------------
+../impulses/echothief/Underground/CathedralRoom.wav
+impulse length: 1528 ms
+estimated RT60: 1472 ms
+intersection: not found
+----------------------
+../impulses/echothief/Underground/BatteryBenson.wav
+impulse length: 1820 ms
+estimated RT60: 1800 ms
+intersection: not found
+----------------------
+../impulses/echothief/Underground/LawrenceWelkCave.wav
+impulse length: 305 ms
+estimated RT60: 294 ms
+intersection: not found
+----------------------
+../impulses/echothief/Underground/TunnelToHell.wav
+impulse length: 1832 ms
+estimated RT60: 1816 ms
+intersection: not found
+----------------------
+../impulses/echothief/Underground/BatteryRandol.wav
+impulse length: 2077 ms
+estimated RT60: 2065 ms
+intersection: not found
+----------------------
+../impulses/echothief/Underground/BatteryTolles.wav
+impulse length: 827 ms
+estimated RT60: 798 ms
+intersection: not found
+----------------------
+../impulses/echothief/Underground/SaltonSeaDrainagePipe.wav
+impulse length: 1845 ms
+estimated RT60: 1688 ms
+intersection: not found
+----------------------
+../impulses/echothief/Underground/FortWordenTunnel.wav
+impulse length: 1555 ms
+estimated RT60: 1533 ms
+intersection: not found
+----------------------
+../impulses/echothief/Underground/BatteryQuarles.wav
+impulse length: 1891 ms
+estimated RT60: 1875 ms
+intersection: not found
+----------------------
+../impulses/echothief/Underground/PortTownsendSkatepark.wav
+impulse length: 687 ms
+estimated RT60: 630 ms
+intersection: not found
+----------------------
+../impulses/echothief/Underground/Batcave.wav
+impulse length: 772 ms
+estimated RT60: 761 ms
+intersection: not found
+----------------------
+../impulses/echothief/Underground/SquareVictoriaDome.wav
+impulse length: 2914 ms
+estimated RT60: 2808 ms
+intersection: not found
+----------------------
+../impulses/echothief/Underground/TonyKnowlesCoastalTrailTunnel.wav
+impulse length: 1721 ms
+estimated RT60: 1708 ms
+intersection: not found
+----------------------
+../impulses/echothief/Underground/PortageCreekTunnel.wav
+impulse length: 2180 ms
+estimated RT60: 2154 ms
+intersection: not found
+----------------------
+../impulses/echothief/Underground/DiscoveryRoom.wav
+impulse length: 820 ms
+estimated RT60: 727 ms
+intersection: not found
+----------------------
+../impulses/echothief/Underground/LakeMerrittBART.wav
+impulse length: 957 ms
+estimated RT60: 884 ms
+intersection: not found
+----------------------
+../impulses/echothief/Stairwells/CPMCNorthStairwell.wav
+impulse length: 2209 ms
+estimated RT60: 2178 ms
+intersection: not found
+----------------------
+../impulses/echothief/Stairwells/3000CStreetGarageStairwell.wav
+impulse length: 2757 ms
+estimated RT60: 2686 ms
+intersection: not found
+----------------------
+../impulses/echothief/Stairwells/CCRMAStairwell.wav
+impulse length: 2275 ms
+estimated RT60: 2232 ms
+intersection: not found
+----------------------
+../impulses/echothief/Stairwells/ConventionCenterSteps.wav
+impulse length: 1041 ms
+estimated RT60: 771 ms
+intersection: not found
+----------------------
+../impulses/echothief/Stairwells/StrathconaStairwellMcGill.wav
+impulse length: 2086 ms
+estimated RT60: 2056 ms
+intersection: not found
+----------------------
+../impulses/echothief/Stairwells/ExerciseAndNutritionSciences.wav
+impulse length: 1450 ms
+estimated RT60: 1364 ms
+intersection: not found
+----------------------
+../impulses/echothief/Stairwells/TransitCenter.wav
+impulse length: 1485 ms
+estimated RT60: 1390 ms
+intersection: not found
+----------------------
+../impulses/echothief/Recreation/SleepingGiantTower.wav
+impulse length: 1047 ms
+estimated RT60: 955 ms
+intersection: not found
+----------------------
+../impulses/echothief/Recreation/CranbrookArtMuseum.wav
+impulse length: 1507 ms
+estimated RT60: 1200 ms
+intersection: not found
+----------------------
+../impulses/echothief/Recreation/SewardWaterfrontPark.wav
+impulse length: 1770 ms
+estimated RT60: 1704 ms
+intersection: not found
+----------------------
+../impulses/echothief/Recreation/HaleHolisticYogaStudio.wav
+impulse length: 1839 ms
+estimated RT60: 1637 ms
+intersection: not found
+----------------------
+../impulses/echothief/Recreation/RacquetballCourt.wav
+impulse length: 3384 ms
+estimated RT60: 3124 ms
+intersection: not found
+----------------------
+../impulses/echothief/Recreation/Natatorium.wav
+impulse length: 1659 ms
+estimated RT60: 1605 ms
+intersection: not found
+----------------------
+../impulses/echothief/Recreation/OutbackClimbingCenter.wav
+impulse length: 1491 ms
+estimated RT60: 1455 ms
+intersection: not found
+----------------------
+../impulses/echothief/Underpasses/WalkwayUnderECampusDr.wav
+impulse length: 1487 ms
+estimated RT60: 1464 ms
+intersection: not found
+----------------------
+../impulses/echothief/Underpasses/ArroyoEnsenada.wav
+impulse length: 733 ms
+estimated RT60: 672 ms
+intersection: not found
+----------------------
+../impulses/echothief/Underpasses/WaterplacePark.wav
+impulse length: 1474 ms
+estimated RT60: 1437 ms
+intersection: not found
+----------------------
+../impulses/echothief/Underpasses/Avenue60UnderpassLARiver.wav
+impulse length: 1491 ms
+estimated RT60: 1340 ms
+intersection: not found
+----------------------
+../impulses/echothief/Underpasses/HopkinsDriveUnderpass.wav
+impulse length: 2004 ms
+estimated RT60: 1774 ms
+intersection: not found
+----------------------
+../impulses/echothief/Underpasses/SwitzerStUnderEHarborDr.wav
+impulse length: 1339 ms
+estimated RT60: 1283 ms
+intersection: not found
+----------------------
+../impulses/echothief/Underpasses/CaribooRdUnderGaglardiWay.wav
+impulse length: 1485 ms
+estimated RT60: 1451 ms
+intersection: not found
+----------------------
+../impulses/echothief/Underpasses/BoulevardRosemontUnderpass.wav
+impulse length: 741 ms
+estimated RT60: 713 ms
+intersection: not found
+----------------------
+../impulses/echothief/Underpasses/StanleyParkCauseway.wav
+impulse length: 1545 ms
+estimated RT60: 1437 ms
+intersection: not found
+----------------------
+../impulses/echothief/Underpasses/FremontTroll.wav
+impulse length: 1486 ms
+estimated RT60: 1396 ms
+intersection: not found
+----------------------
+../impulses/echothief/Underpasses/JFKUnderpass.wav
+impulse length: 1679 ms
+estimated RT60: 1631 ms
+intersection: not found
+----------------------
+../impulses/echothief/Underpasses/EchoBridge.wav
+impulse length: 4127 ms
+estimated RT60: 3911 ms
+intersection: not found
+----------------------
+../impulses/echothief/Underpasses/StanleyParkDriveUnderpass.wav
+impulse length: 1229 ms
+estimated RT60: 1187 ms
+intersection: not found
+----------------------
+../impulses/echothief/Underpasses/Avenue52UnderpassLARiver.wav
+impulse length: 1447 ms
+estimated RT60: 1364 ms
+intersection: not found
+----------------------
+../impulses/echothief/Underpasses/LionsGateBridge.wav
+impulse length: 739 ms
+estimated RT60: 695 ms
+intersection: not found
+----------------------
+../impulses/echothief/Underpasses/DipwayArch.wav
+impulse length: 972 ms
+estimated RT60: 939 ms
+intersection: not found
+----------------------
+../impulses/echothief/Underpasses/5UnderpassValencia.wav
+impulse length: 1248 ms
+estimated RT60: 1194 ms
+intersection: not found
+----------------------
+../impulses/echothief/Underpasses/CleftRidgeArch.wav
+impulse length: 1358 ms
+estimated RT60: 1351 ms
+intersection: not found
+----------------------
+../impulses/echothief/Underpasses/Commerical&5Underpass.wav
+impulse length: 1124 ms
+estimated RT60: 1078 ms
+intersection: not found
+----------------------
+../impulses/echothief/Underpasses/FishCreekTrestleBridge.wav
+impulse length: 507 ms
+estimated RT60: 454 ms
+intersection: not found
+----------------------
+../impulses/echothief/Underpasses/RiverMountainsLoopTrailAqueduct.wav
+impulse length: 1451 ms
+estimated RT60: 1437 ms
+intersection: not found
+----------------------
+../impulses/echothief/Underpasses/TelephoneWash.wav
+impulse length: 745 ms
+estimated RT60: 581 ms
+intersection: not found
+----------------------
+../impulses/echothief/Underpasses/OldSouthBridge.wav
+impulse length: 1212 ms
+estimated RT60: 1192 ms
+intersection: not found
+----------------------
+../impulses/echothief/Venues/Space4ArtGallery.wav
+impulse length: 1672 ms
+estimated RT60: 1447 ms
+intersection: not found
+----------------------
+../impulses/echothief/Venues/SteinmanHall.wav
+impulse length: 1189 ms
+estimated RT60: 986 ms
+intersection: not found
+----------------------
+../impulses/echothief/Venues/NaumburgBandshell.wav
+impulse length: 328 ms
+estimated RT60: 316 ms
+intersection: not found
+----------------------
+../impulses/echothief/Venues/MillsGreekTheater.wav
+impulse length: 535 ms
+estimated RT60: 493 ms
+intersection: not found
+----------------------
+../impulses/echothief/Venues/ConradPrebysConcertHallSeatF111.wav
+impulse length: 1428 ms
+estimated RT60: 1161 ms
+intersection: not found
+----------------------
+../impulses/echothief/Brutalism/GeiselLibrary.wav
+impulse length: 972 ms
+estimated RT60: 970 ms
+intersection: not found
+----------------------
+../impulses/echothief/Brutalism/BiomedicalSciences.wav
+impulse length: 779 ms
+estimated RT60: 584 ms
+intersection: not found
+----------------------
+../impulses/echothief/Brutalism/CarpenterCenter.wav
+impulse length: 1508 ms
+estimated RT60: 1466 ms
+intersection: not found
+----------------------
+../impulses/echothief/Brutalism/HumanitiesSocialSciencesCourtyard.wav
+impulse length: 924 ms
+estimated RT60: 922 ms
+intersection: not found
+----------------------
+../impulses/echothief/Brutalism/NaturalSciences.wav
+impulse length: 1014 ms
+estimated RT60: 1004 ms
+intersection: not found
+----------------------
+../impulses/echothief/Brutalism/PepperCanyonHall.wav
+impulse length: 1098 ms
+estimated RT60: 1095 ms
+intersection: not found
+----------------------
+../impulses/echothief/Brutalism/GraffitiHallway.wav
+impulse length: 2145 ms
+estimated RT60: 2053 ms
+intersection: not found
+----------------------
+../impulses/echothief/Brutalism/PacificHall.wav
+impulse length: 1539 ms
+estimated RT60: 1387 ms
+intersection: not found
+----------------------
+../impulses/echothief/Brutalism/SanDiegoSupercomputerCenter.wav
+impulse length: 822 ms
+estimated RT60: 722 ms
+intersection: not found
+----------------------
+../impulses/echothief/Brutalism/LoveLibrary.wav
+impulse length: 1455 ms
+estimated RT60: 1363 ms
+intersection: not found
+----------------------
+../impulses/echothief/Brutalism/GalbraithHall.wav
+impulse length: 863 ms
+estimated RT60: 829 ms
+intersection: not found
+----------------------
+../impulses/echothief/Nature/PurgatoryChasm.wav
+impulse length: 611 ms
+estimated RT60: 600 ms
+intersection: not found
+----------------------
+../impulses/echothief/Nature/CliffOfTheDawn.wav
+impulse length: 222 ms
+estimated RT60: 187 ms
+intersection: not found
+----------------------
+../impulses/echothief/Nature/FatMansSqueeze.wav
+impulse length: 440 ms
+estimated RT60: 342 ms
+intersection: not found
+----------------------
+../impulses/echothief/Nature/TheSlot.wav
+impulse length: 508 ms
+estimated RT60: 490 ms
+intersection: not found
+----------------------
+../impulses/echothief/Nature/DevilsPunchbowl.wav
+impulse length: 769 ms
+estimated RT60: 725 ms
+intersection: not found
+----------------------
+../impulses/echothief/Nature/StanleyParkCliffs.wav
+impulse length: 336 ms
+estimated RT60: 315 ms
+intersection: not found
+----------------------
+../impulses/echothief/Nature/WoodruffLane.wav
+impulse length: 264 ms
+estimated RT60: 208 ms
+intersection: not found
+----------------------
+../impulses/echothief/Nature/IslaMujeresCave.wav
+impulse length: 267 ms
+estimated RT60: 234 ms
+intersection: not found
+----------------------
+../impulses/echothief/Nature/ByronGlacier.wav
+impulse length: 408 ms
+estimated RT60: 394 ms
+intersection: not found
+----------------------
+../impulses/echothief/Nature/FatMansMisery.wav
+impulse length: 360 ms
+estimated RT60: 299 ms
+intersection: not found
+----------------------
+../impulses/echothief/Nature/DivorceBeach.wav
+impulse length: 978 ms
+estimated RT60: 890 ms
+intersection: not found
+----------------------
+../impulses/echothief/Miscellaneous/HepnerHall.wav
+impulse length: 1706 ms
+estimated RT60: 1458 ms
+intersection: not found
+----------------------
+../impulses/echothief/Miscellaneous/AcademicQuadrangle.wav
+impulse length: 1840 ms
+estimated RT60: 1802 ms
+intersection: not found
+----------------------
+../impulses/echothief/Miscellaneous/CedarCreekWinery.wav
+impulse length: 1900 ms
+estimated RT60: 1828 ms
+intersection: not found
+----------------------
+../impulses/echothief/Miscellaneous/LittlefieldLobby.wav
+impulse length: 2948 ms
+estimated RT60: 2629 ms
+intersection: not found
+----------------------
+../impulses/echothief/Miscellaneous/StorageTankNo7.wav
+impulse length: 860 ms
+estimated RT60: 829 ms
+intersection: not found
+----------------------
+../impulses/echothief/Miscellaneous/CastilloDeLosTresReyesDelMorroSalasDeExposicion.wav
+impulse length: 1225 ms
+estimated RT60: 1100 ms
+intersection: not found
+----------------------
+../impulses/echothief/Miscellaneous/WarrenLectureHall2005.wav
+impulse length: 1331 ms
+estimated RT60: 1112 ms
+intersection: not found
+----------------------
+../impulses/echothief/Miscellaneous/TijuanaMall.wav
+impulse length: 1243 ms
+estimated RT60: 1204 ms
+intersection: not found
+----------------------
+../impulses/echothief/Miscellaneous/CastilloDeLosTresReyesDelMorroArch.wav
+impulse length: 750 ms
+estimated RT60: 741 ms
+intersection: not found
+----------------------
+../impulses/echothief/Miscellaneous/SteinmanFoundationRecordingSuite.wav
+impulse length: 851 ms
+estimated RT60: 749 ms
+intersection: not found
+----------------------
+../impulses/echothief/Miscellaneous/QuadracciPavilion.wav
+impulse length: 729 ms
+estimated RT60: 638 ms
+intersection: not found
+----------------------
+../impulses/echothief/Miscellaneous/WangenheimRareBooksRoom.wav
+impulse length: 743 ms
+estimated RT60: 675 ms
+intersection: not found
+----------------------
+../impulses/echothief/Miscellaneous/PabstBrewery.wav
+impulse length: 512 ms
+estimated RT60: 423 ms
+intersection: not found
+----------------------
+../impulses/echothief/Miscellaneous/RedBridge.wav
+impulse length: 775 ms
+estimated RT60: 734 ms
+intersection: not found
+----------------------
+../impulses/echothief/Miscellaneous/FortalezaDeSanCarlosDeLaCabana.wav
+impulse length: 681 ms
+estimated RT60: 676 ms
+intersection: not found
+----------------------
+../impulses/echothief/Miscellaneous/FourPointsRoom270.wav
+impulse length: 389 ms
+estimated RT60: 353 ms
+intersection: not found
+----------------------
+../impulses/echothief/Miscellaneous/PabellonCulturalDeLaRepublica.wav
+impulse length: 2191 ms
+estimated RT60: 2162 ms
+intersection: not found
+----------------------
+../impulses/echothief/Miscellaneous/ConvocationMall.wav
+impulse length: 760 ms
+estimated RT60: 722 ms
+intersection: not found
+----------------------
+../impulses/echothief/Miscellaneous/CastilloDeLosTresReyesDelMorro.wav
+impulse length: 370 ms
+estimated RT60: 359 ms
+intersection: not found
+----------------------
+../impulses/echothief/Miscellaneous/BarMonsieurRicard.wav
+impulse length: 1118 ms
+estimated RT60: 1052 ms
+intersection: not found
+----------------------
+../impulses/echothief/Miscellaneous/CastilloDeLosTresReyesDelMorroCourtyard.wav
+impulse length: 687 ms
+estimated RT60: 672 ms
+intersection: not found
+----------------------
+../impulses/echothief/Miscellaneous/Hawxhurst.wav
+impulse length: 529 ms
+estimated RT60: 485 ms
+intersection: not found
+----------------------
+../impulses/echothief/Miscellaneous/HartwellTavern.wav
+impulse length: 606 ms
+estimated RT60: 579 ms
+intersection: not found
+----------------------
+../impulses/echothief/Miscellaneous/Amaranth.wav
+impulse length: 1187 ms
+estimated RT60: 1051 ms
+intersection: not found
+----------------------
+../impulses/echothief/Miscellaneous/CPMC264.wav
+impulse length: 2000 ms
+estimated RT60: 1394 ms
+intersection: not found
+----------------------
+../impulses/echothief/Miscellaneous/MillsArtMuseum.wav
+impulse length: 742 ms
+estimated RT60: 711 ms
+intersection: not found
+----------------------
+../impulses/airwindows/RoomMedium.wav
+impulse length: 2625 ms
+estimated RT60: 1376 ms
+intersection: not found
+----------------------
+../impulses/airwindows/GiantCave.wav
+impulse length: 3630 ms
+estimated RT60: 3318 ms
+intersection: not found
+----------------------
+../impulses/airwindows/PrimeShort.wav
+impulse length: 1272 ms
+estimated RT60: 764 ms
+intersection: not found
+----------------------
+../impulses/airwindows/OutdoorStadium.wav
+impulse length: 10511 ms
+estimated RT60: 5239 ms
+intersection: not found
+----------------------
+../impulses/airwindows/RoomConcertHall.wav
+impulse length: 2962 ms
+estimated RT60: 1529 ms
+intersection: not found
+----------------------
+../impulses/airwindows/OutdoorBlastoff.wav
+impulse length: 3217 ms
+estimated RT60: 2970 ms
+intersection: not found
+----------------------
+../impulses/airwindows/RoomPool.wav
+impulse length: 16207 ms
+estimated RT60: 9172 ms
+intersection: not found
+----------------------
+../impulses/airwindows/RoomLarge.wav
+impulse length: 3508 ms
+estimated RT60: 1929 ms
+intersection: not found
+----------------------
+../impulses/airwindows/PrimeLong.wav
+impulse length: 3249 ms
+estimated RT60: 2152 ms
+intersection: not found
+----------------------
+../impulses/airwindows/PrimeMed.wav
+impulse length: 2034 ms
+estimated RT60: 1263 ms
+intersection: not found
+----------------------
+../impulses/airwindows/PlateSmall.wav
+impulse length: 2665 ms
+estimated RT60: 1563 ms
+intersection: not found
+----------------------
+../impulses/airwindows/RoomHuge.wav
+impulse length: 7339 ms
+estimated RT60: 4125 ms
+intersection: not found
+----------------------
+../impulses/airwindows/Hangar.wav
+impulse length: 5937 ms
+estimated RT60: 5574 ms
+intersection: not found
+----------------------
+../impulses/airwindows/CastleThunder.wav
+impulse length: 3696 ms
+estimated RT60: 3325 ms
+intersection: not found
+----------------------
+../impulses/airwindows/AirportTerminal.wav
+impulse length: 9742 ms
+estimated RT60: 8901 ms
+intersection: not found
+----------------------
+../impulses/airwindows/PlateLarge.wav
+impulse length: 5044 ms
+estimated RT60: 2988 ms
+intersection: not found
+----------------------
+../impulses/airwindows/PlateMedium.wav
+impulse length: 3668 ms
+estimated RT60: 2193 ms
+intersection: not found
+----------------------
+../impulses/airwindows/PlateSuperDry.wav
+impulse length: 3882 ms
+estimated RT60: 2190 ms
+intersection: not found
+----------------------
+../impulses/airwindows/PrimeXtraLong.wav
+impulse length: 4782 ms
+estimated RT60: 3336 ms
+intersection: not found
+----------------------
+../impulses/voxengo/DirectCabinetN1.wav
+impulse length: 17 ms
+estimated RT60: 10 ms
+intersection: not found
+----------------------
+../impulses/voxengo/DirectCabinetN3.wav
+impulse length: 92 ms
+estimated RT60: 47 ms
+intersection: not found
+----------------------
+../impulses/voxengo/ScalaMilanOperaHall.wav
+impulse length: 2008 ms
+estimated RT60: 1109 ms
+intersection: not found
+----------------------
+../impulses/voxengo/TrigRoom.wav
+impulse length: 1050 ms
+estimated RT60: 768 ms
+intersection: not found
+----------------------
+../impulses/voxengo/MasonicLodge.wav
+impulse length: 1213 ms
+estimated RT60: 732 ms
+intersection: not found
+----------------------
+../impulses/voxengo/Rays.wav
+impulse length: 1987 ms
+estimated RT60: 1334 ms
+intersection: not found
+----------------------
+../impulses/voxengo/SmallDrumRoom.wav
+impulse length: 761 ms
+estimated RT60: 448 ms
+intersection: not found
+----------------------
+../impulses/voxengo/SmallPrehistoricCave.wav
+impulse length: 1098 ms
+estimated RT60: 711 ms
+intersection: not found
+----------------------
+../impulses/voxengo/RightGlassTriangle.wav
+impulse length: 4001 ms
+estimated RT60: 3048 ms
+intersection: not found
+----------------------
+../impulses/voxengo/ParkingGarage.wav
+impulse length: 3727 ms
+estimated RT60: 2394 ms
+intersection: not found
+----------------------
+../impulses/voxengo/CementBlocks2.wav
+impulse length: 2173 ms
+estimated RT60: 1261 ms
+intersection: not found
+----------------------
+../impulses/voxengo/LargeLongEchoHall.wav
+impulse length: 4004 ms
+estimated RT60: 2948 ms
+intersection: not found
+----------------------
+../impulses/voxengo/CementBlocks1.wav
+impulse length: 1504 ms
+estimated RT60: 881 ms
+intersection: not found
+----------------------
+../impulses/voxengo/DirectCabinetN4.wav
+impulse length: 39 ms
+estimated RT60: 22 ms
+intersection: not found
+----------------------
+../impulses/voxengo/LargeBottleHall.wav
+impulse length: 4003 ms
+estimated RT60: 3311 ms
+intersection: not found
+----------------------
+../impulses/voxengo/FiveColumns.wav
+impulse length: 2005 ms
+estimated RT60: 1228 ms
+intersection: not found
+----------------------
+../impulses/voxengo/BottleHall.wav
+impulse length: 639 ms
+estimated RT60: 400 ms
+intersection: not found
+----------------------
+../impulses/voxengo/Greek7EchoHall.wav
+impulse length: 1265 ms
+estimated RT60: 602 ms
+intersection: not found
+----------------------
+../impulses/voxengo/InTheSiloRevised.wav
+impulse length: 1083 ms
+estimated RT60: 757 ms
+intersection: not found
+----------------------
+../impulses/voxengo/ConicLongEchoHall.wav
+impulse length: 4002 ms
+estimated RT60: 2738 ms
+intersection: not found
+----------------------
+../impulses/voxengo/OnaStar.wav
+impulse length: 3503 ms
+estimated RT60: 1118 ms
+intersection: not found
+----------------------
+../impulses/voxengo/Musikvereinsaal.wav
+impulse length: 3003 ms
+estimated RT60: 1923 ms
+intersection: not found
+----------------------
+../impulses/voxengo/LargeWideEchoHall.wav
+impulse length: 4004 ms
+estimated RT60: 3437 ms
+intersection: not found
+----------------------
+../impulses/voxengo/DeepSpace.wav
+impulse length: 162 ms
+estimated RT60: -101 ms
+intersection: not found
+----------------------
+../impulses/voxengo/ChateaudeLogneOutside.wav
+impulse length: 878 ms
+estimated RT60: 493 ms
+intersection: not found
+----------------------
+../impulses/voxengo/DirectCabinetN2.wav
+impulse length: 37 ms
+estimated RT60: 20 ms
+intersection: not found
+----------------------
+../impulses/voxengo/GoingHome.wav
+impulse length: 4003 ms
+estimated RT60: 2899 ms
+intersection: not found
+----------------------
+../impulses/voxengo/NiceDrumRoom.wav
+impulse length: 1121 ms
+estimated RT60: 828 ms
+intersection: not found
+----------------------
+../impulses/voxengo/InTheSilo.wav
+impulse length: 2594 ms
+estimated RT60: 1788 ms
+intersection: not found
+----------------------
+../impulses/voxengo/FiveColumnsLong.wav
+impulse length: 4003 ms
+estimated RT60: 3074 ms
+intersection: not found
+----------------------
+../impulses/voxengo/NarrowBumpySpace.wav
+impulse length: 1284 ms
+estimated RT60: 828 ms
+intersection: not found
+----------------------
+../impulses/voxengo/StNicolaesChurch.wav
+impulse length: 7986 ms
+estimated RT60: 4056 ms
+intersection: not found
+----------------------
+../impulses/voxengo/VocalDuo.wav
+impulse length: 2999 ms
+estimated RT60: 1826 ms
+intersection: not found
+----------------------
+../impulses/voxengo/French18thCenturySalon.wav
+impulse length: 2002 ms
+estimated RT60: 1096 ms
+intersection: not found
+----------------------
+../impulses/voxengo/RubyRoom.wav
+impulse length: 1255 ms
+estimated RT60: 964 ms
+intersection: not found
+----------------------
+../impulses/voxengo/HighlyDampedLargeRoom.wav
+impulse length: 947 ms
+estimated RT60: 603 ms
+intersection: not found
+----------------------
+../impulses/voxengo/DerlonSanctuary.wav
+impulse length: 4003 ms
+estimated RT60: 2356 ms
+intersection: not found
+----------------------
+../impulses/voxengo/BlockInside.wav
+impulse length: 1417 ms
+estimated RT60: 794 ms
+intersection: not found
+----------------------
