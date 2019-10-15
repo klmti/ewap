@@ -11,7 +11,7 @@ import sma
 import pcmfloat as pf
 import wiener as wd
 
-smaFactor = 5000
+smaFactor = 500
 impulse_paths = [y for x in os.walk('../impulses') for y in glob(os.path.join(x[0], '*.wav'))]
 
 #impulse_paths = [
